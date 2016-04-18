@@ -12,7 +12,7 @@ To install this package, ensure your project.json contains the following lines:
 {
     "dependencies": {
         "xunit": "2.1.0-*",
-        "dotnet-test-xunit": "2.1.0-*"
+        "dotnet-test-xunit": "1.0.0-dev-*"
     },
     "testRunner": "dotnet-test-xunit"
 }
